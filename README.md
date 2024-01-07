@@ -377,7 +377,7 @@ Your choice:
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough,
 but I bought more to give myself more practice. But I always do too much.
 
-I bought both of these. They gave me plenty of practice.
+I bought both of these. They gave me plenty of practice as well.
 
 - [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - Answers in C++ and Java
